@@ -75,8 +75,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "OGKB",
-        "meta_descr": "This is OGKB's homepage.",
+        "title": "OGKB.ORG",
+        "meta_descr": "Your #1 spot for fresh deals.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
